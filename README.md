@@ -1,1 +1,1 @@
-"# Kelompok 8 - Monitoring Suhu ESP32" 
+"# Kelompok 8 - Pemantauan Suhu Pada Ruang Pendingin"
